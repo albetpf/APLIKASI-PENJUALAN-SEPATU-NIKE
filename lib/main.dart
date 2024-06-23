@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'The Flutter Way - Template',
+      title: 'Tugas UAS PBB',
       initialRoute: LoginScreen.routeName,
       routes: routes,
     );
