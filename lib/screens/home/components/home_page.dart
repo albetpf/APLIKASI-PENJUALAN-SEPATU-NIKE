@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
         ),
         actions: <Widget>[
           IconBtnWithCounter(
-            svgSrc: "assets/icons/Cart Icon.svg",
+            svgSrc: "lib/assets/icon/Cart Icon.svg",
             size: 22,
             press: () => Navigator.pushNamed(context, CartScreen.routeName),
           ),
