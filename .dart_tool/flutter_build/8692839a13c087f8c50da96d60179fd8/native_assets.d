@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\Downloads\\Documents\\UASPPB-main\\UASPPB-main\\.dart_tool\\flutter_build\\8692839a13c087f8c50da96d60179fd8\\native_assets.yaml: 
